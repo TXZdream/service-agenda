@@ -1,10 +1,8 @@
 # Agenda
 ## [TXZdream](https://github.com/TXZdream)
 ### Basic message
-- Student ID
-15331288
 - Name
-唐玄昭
+txz
 - Email
 xuanzhaotang@gmail.com
 ### Task in this project
