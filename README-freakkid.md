@@ -1,10 +1,6 @@
 # Personal Work Summary Of Service-Agenda
 
-### Student Name: [黄楠绚](https://github.com/freakkid)
-
-* Student ID: 15331117
-
-* Enail: threequarters@qq.com
+### Student Name: [hnx](https://github.com/freakkid)
 
 * [Commits History](https://github.com/freakkid/service-agenda/commits?author=freakkid)
 
